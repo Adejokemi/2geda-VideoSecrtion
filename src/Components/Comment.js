@@ -38,19 +38,19 @@ const CommentSection = () => {
       id: 1,
       name: "Mark jude",
       jobDescription: "Software Engineer",
-      text: "This is a great comment!",
+      text: "I am willing to support 200 participants with New laptops and some Tech swags to enhance the learning process.",
     },
     {
       id: 2,
       name: "Mark jude",
       jobDescription: "Software Engineer",
-      text: "This is another great comment!",
+      text: "I am willing to support 200 participants with New laptops and some Tech swags to enhance the learning process.",
     },
     {
       id: 3,
       name: "Mark jude",
       jobDescription: "Software Engineer",
-      text: "And here's one more!",
+      text: "I am willing to support 200 participants with New laptops and some Tech swags to enhance the learning process.",
     },
   ]);
 
